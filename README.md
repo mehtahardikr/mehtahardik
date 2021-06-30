@@ -35,6 +35,6 @@
 <a href="https://github.com/mehtahardikr">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehtahardikr&theme=dark&hide_langs_below=1" />
 </a>
-<a href="https://github.com/iampawan">
+<a href="https://github.com/mehtahardikr">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mehtahardikr&show_icons=true&theme=dark&line_height=27" alt="Hardik's github stats"/>
 </a>
